@@ -1,0 +1,17 @@
+body,html{
+    height: 100%;
+}
+.bg-img1{
+    background-image: url(./images/space.jpeg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    font-size: 75px;
+    font-family: 'Star Jedi Hollow', serif;
+    color:yellow;
+    justify-content: center;
+  
+}
