@@ -1,8 +1,9 @@
 body,html{
     height: 100%;
+    background-image: url(../images/vastExpanse.png);
+
 }
 .bg-img1{
-    background-image: url(./images/space.jpeg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,3 +16,13 @@ body,html{
     justify-content: center;
   
 }
+#planets{
+    padding-top: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .title{
+        font-size: 30px;
+    }
+}
+
