@@ -3,12 +3,7 @@ body,html{
     background-image: url(../images/vastExpanse.png);
 
 }
-.bg-img1{
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 .title{
     font-size: 75px;
     font-family: 'Star Jedi Hollow', serif;
@@ -23,6 +18,7 @@ body,html{
 @media screen and (max-width: 600px) {
     .title{
         font-size: 30px;
+        margin-top: 10px;
     }
 }
 
