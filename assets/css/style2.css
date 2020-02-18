@@ -1,0 +1,11 @@
+body,html{
+    height: 100%;
+   
+}
+#bg-img2{
+    background-image: url(../images/cristi-animated-yoda.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

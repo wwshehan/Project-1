@@ -1,0 +1,24 @@
+body,html{
+    height: 100%;
+    background-image: url(../images/vastExpanse.png);
+
+}
+
+.title{
+    font-size: 75px;
+    font-family: 'Star Jedi Hollow', serif;
+    color:yellow;
+    justify-content: center;
+  
+}
+#planets{
+    padding-top: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    .title{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+}
+
