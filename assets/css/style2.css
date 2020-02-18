@@ -9,3 +9,30 @@ body,html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+button{
+    background-color: grey;
+    color: white;
+    margin-left: 10px;
+}
+
+#text-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#baby-yoda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+   
+}
+
+#text-bubble{
+    width: 400px;
+    background-color: white;
+    position: relative;
+    padding: 50px;
+    border-radius: 3px;
+}
