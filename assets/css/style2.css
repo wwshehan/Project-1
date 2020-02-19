@@ -2,6 +2,9 @@ body,html{
     height: 100%;
    
 }
+p{
+    font-weight: bolder;
+}
 #bg-img2{
     background-image: url(../images/cristi-animated-yoda.jpg);
     height: 100%;
@@ -10,11 +13,14 @@ body,html{
     background-size: cover;
 }
 button{
-    background-color: grey;
-    color: white;
+    background-color:#93C0E7;
+    color: black;
     margin-left: 10px;
 }
-
+button:hover {
+    border: solid 2px #E8D19E;
+    box-shadow: 0 15px 30px #E8D19E;
+}
 #text-box{
     display: flex;
     justify-content: center;
@@ -31,8 +37,10 @@ button{
 
 #text-bubble{
     width: 400px;
-    background-color: white;
-    position: relative;
+    background-color: #93C0E7;
     padding: 50px;
-    border-radius: 3px;
+    border-radius: 15px 15px 0 15px;
+    opacity: .5;
+    color: black;
+    font-weight: bold;
 }
