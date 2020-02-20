@@ -1,9 +1,9 @@
 # Project-1
 Yoda speech translator
 
-![](./assets/screen-shots/indexSC)
+![](./assets/screen-shots/indexSC.png)
 
-![](./assets/screen-shots/yodaHome)
+![](./assets/screen-shots/yodaHome.png)
 
 Using a random quote api to generate insperational quotes.
 Taking the string and placing it in a yoda speech for translation.
