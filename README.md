@@ -5,7 +5,7 @@ Yoda speech translator
 
 ![](./assets/screen-shots/yodaHome.png)
 
-https://justinmonty20.github.io/Project-1/
+https://wwshehan.github.io/Yoda-Translator/
 
 Using a random quote api to generate insperational quotes.
 Taking the string and placing it in a yoda speech for translation.
